@@ -6,7 +6,7 @@ The USGS GeoJson data can be accessed here: https://earthquake.usgs.gov/earthqua
 
 Information is updated every minute, and is organized into different datasets by time and severity.   
 
-![](images/usgs_website.png)  
+![](images/website_page.png)  
 
 
 This project reads in data from all earthquakes in the past day.  
